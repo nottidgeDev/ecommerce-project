@@ -79,7 +79,7 @@ export function OrdersPage({ cart }) {
                         </div>
                       </Fragment>
                     );
-                  })}z
+                  })}
                 </div>
               </div>
             );
