@@ -1,0 +1,24 @@
+<svg
+  height="42"
+  viewBox="0 0 460 60"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="PrimeNexus"
+>
+  <!-- Prefix Mark -->
+  <rect x="0" y="12" width="4" height="36" fill="#000000"/>
+  <rect x="10" y="16" width="4" height="28" fill="#000000" opacity="0.6"/>
+
+  <!-- Text -->
+  <text
+    x="28"
+    y="44"
+    font-family="Inter, system-ui, sans-serif"
+    font-size="42"
+    font-weight="800"
+    letter-spacing="1.5"
+    fill="#000000"
+  >
+    PRIMENEXUS
+  </text>
+</svg>

@@ -1,0 +1,10 @@
+<svg
+  height="32"
+  viewBox="0 0 32 32"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="PrimeNexus"
+>
+  <rect x="8" y="4" width="4" height="24" fill="#FFFFFF"/>
+  <rect x="18" y="8" width="4" height="16" fill="#FFFFFF" opacity="0.6"/>
+</svg>

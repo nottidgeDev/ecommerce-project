@@ -29,8 +29,8 @@ export function CheckoutPage({ cart, loadCart }) {
         <div className="header-content">
           <div className="checkout-header-left-section">
             <a href="/">
-              <img className="logo" src="images/logo.png" />
-              <img className="mobile-logo" src="images/mobile-logo.png" />
+              <img className="logo" src="images/B-PRIMENEXUS.svg" />
+              <img className="mobile-logo" src="images/b-PRIMENEXUSMOBILE.svg" />
             </a>
           </div>
 
