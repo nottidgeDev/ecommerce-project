@@ -6,7 +6,7 @@ export function Product({ product, loadCart }) {
   const [quantity, setQuantity] = useState(1);
 
   const addToCart = async () => {
-    await axios.post('/api/cart-items', {
+    await axios.post(`${import.meta.env.VITE_API_BASE_URL}/api/cart-items`, {
       productId: product.id,
       quantity
     })
